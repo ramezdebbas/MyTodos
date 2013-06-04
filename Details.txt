@@ -1,0 +1,10 @@
+My To-dos:
+Description:
+Have lot of thing to do but forget the thing when doing them.  Here is a solution for you. An easy to use application providing you the feature how to schedule the list of your to-dos and prioritize them according to their importance. When have done anything you can dismiss that item with just single click on DONE. Really an easy application for you to plan your to-dos.
+	
+Features:
+•	An easy to use application for your to-do list. 
+•	Prioritize the to-do items according to their importance.
+•	When have done anything you can dismiss that item with just single click on DONE.
+•	Fully Different User Interface Designed keeping in focus point of view of Niche (Target) Market.
+•	Fully Unique Branding (Unique Logo Designing & Graphics Designing)
